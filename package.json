@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/KeizerDev/steeb-node/issues"
   },
-  "homepage": "https://github.com/KeizerDev/steeb-node#readme"
+  "homepage": "https://github.com/KeizerDev/steeb-node#readme",
+  "dependencies": {
+    "nodebrainz": "^1.0.1",
+    "request": "^2.69.0"
+  }
 }
